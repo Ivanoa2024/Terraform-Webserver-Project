@@ -1,7 +1,7 @@
 # Terraform-Webserver-Project
 Launch, Connnect and Install Webserver using Terraform
 ```
-git clone https://github.com/atulkamble/terraform-webserver.git
+https://github.com/Ivanoa2024/Terraform-Webserver-Project.git
 cd terraform-webserver
 ```
 
